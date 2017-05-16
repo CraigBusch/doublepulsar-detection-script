@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f55ff2a3-270e-49e6-8ee3-24cd0ab7e5cc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detect_doublepulsar_rdp.py" afterPath="$PROJECT_DIR$/detect_doublepulsar_rdp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/detect_doublepulsar_smb.py" afterPath="$PROJECT_DIR$/detect_doublepulsar_smb.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="detect_doublepulsar_rdp.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="detect_doublepulsar_rdp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/detect_doublepulsar_rdp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="133" column="46" lean-forward="true" selection-start-line="133" selection-start-column="46" selection-end-line="133" selection-end-column="46" />
+            <state relative-caret-position="315">
+              <caret line="133" column="47" lean-forward="true" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detect_doublepulsar_smb.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/detect_doublepulsar_smb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3549">
+              <caret line="173" column="0" lean-forward="true" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,6 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/detect_doublepulsar_smb.py" />
         <option value="$PROJECT_DIR$/detect_doublepulsar_rdp.py" />
       </list>
     </option>
@@ -147,10 +159,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doublepulsar_snort_rules.rules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/detect_doublepulsar_rdp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="133" column="46" lean-forward="true" selection-start-line="133" selection-start-column="46" selection-end-line="133" selection-end-column="46" />
+        <state relative-caret-position="315">
+          <caret line="133" column="47" lean-forward="true" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_doublepulsar_smb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3549">
+          <caret line="173" column="0" lean-forward="true" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
           <folding />
         </state>
       </provider>
