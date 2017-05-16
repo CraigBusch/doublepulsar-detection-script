@@ -131,7 +131,7 @@ def threaded_check(ip_address):
         check_ip(ip_address)
     except Exception as e:
         with print_lock:
-            print("[ERROR] [" + ip + "] -", e)
+            print("[ERROR] [" + ip + "] - ", e)
     finally:
         semaphore.release()
 
